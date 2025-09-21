@@ -12,7 +12,6 @@ import Login from './components/Login/Login';
 import Maps from './components/mapping/Maps';
 
 import "./fonts.css";
-import 'leaflet/dist/leaflet.css';
 
 function App() {
   const [currentPage, setCurrentPage] = useState('home');
