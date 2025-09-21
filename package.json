@@ -13,7 +13,6 @@
     "@react-google-maps/api": "^2.20.7",
     "@supabase/supabase-js": "^2.57.4",
     "framer-motion": "^12.23.14",
-    "leaflet": "^1.9.4",
     "lucide-react": "^0.344.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
