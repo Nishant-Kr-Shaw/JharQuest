@@ -2,7 +2,6 @@ import { useState } from 'react';
 import { Menu, X, User, MapPin, MessageCircle } from 'lucide-react';
 import { useApp } from '../../contexts/AppContext';
 import JTlogo1 from '../../assets/JTlogo1.png';
-import './style.css';
 
 interface HeaderProps {
   onNavigate: (page: string) => void;
