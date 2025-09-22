@@ -43,7 +43,7 @@ export function Header({ onNavigate, currentPage }: HeaderProps) {
         >
           <img src={JTlogo1} alt="Logo" width={150} height={150}/>
             <div>
-              <h1 className="text-xl font-bold font-custom">Jharkhand Tourism</h1>
+              <h1 className="text-3xl font-bold font-custom">JharQuest</h1>
               <p className="text-xs font-poppins">Discover • Experience • Explore</p>
             </div>
           </div>
